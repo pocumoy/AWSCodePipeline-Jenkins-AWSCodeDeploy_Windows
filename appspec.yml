@@ -7,3 +7,4 @@ files:
 #  BeforeInstall:
 #    - location: \before-install.bat
 #      timeout: 900
+#test update
