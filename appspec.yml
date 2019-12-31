@@ -2,8 +2,8 @@ version: 0.0
 os: windows
 files:
   - source: \index.html
-    destination: C:\inetpub\wwwroot
-hooks:
-  BeforeInstall:
-    - location: \before-install.bat
-      timeout: 900
+    destination: C:\www\awsTestApp
+#hooks:
+#  BeforeInstall:
+#    - location: \before-install.bat
+#      timeout: 900
