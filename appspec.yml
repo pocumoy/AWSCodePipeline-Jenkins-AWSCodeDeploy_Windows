@@ -1,8 +1,8 @@
-version: 0.0
+version: 0.1
 os: windows
 files:
-  - source: \index.html
-    destination: C:\www\awsTestApp
+  - source: /index.html
+    destination: C:/www/awsTestApp
 #hooks:
 #  BeforeInstall:
 #    - location: \before-install.bat
